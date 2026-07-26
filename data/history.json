@@ -1,0 +1,1445 @@
+{
+  "4dbb0df5-8ab2-4b11-80a3-5f10f7d712bd": [
+    {
+      "time": "2026-07-25T19:41:25.224Z",
+      "description": "There is a person in front, about 2.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-25T19:26:28.238Z",
+      "description": "There is a bench in front, about 1.3 meters away.",
+      "count": 1,
+      "closest_distance_m": 1.3,
+      "classes": [
+        "bench"
+      ]
+    },
+    {
+      "time": "2026-07-25T19:26:23.833Z",
+      "description": "There is a bench in front, about 1.3 meters away.",
+      "count": 1,
+      "closest_distance_m": 1.3,
+      "classes": [
+        "bench"
+      ]
+    },
+    {
+      "time": "2026-07-25T19:26:18.311Z",
+      "description": "No objects detected clearly. Please move slowly.",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-25T19:26:12.727Z",
+      "description": "No objects detected clearly. Please move slowly.",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-25T19:24:38.978Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-25T18:57:31.505Z",
+      "description": "There is a person in front, about 2.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-25T13:18:39.823Z",
+      "description": "There is a person in front, about 3.1 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.1,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-25T13:17:40.928Z",
+      "description": "There is a person in front, about 3 meters away, and a cup in front, about 0.6 meters away.",
+      "count": 2,
+      "closest_distance_m": 3,
+      "classes": [
+        "person",
+        "cup"
+      ]
+    },
+    {
+      "time": "2026-07-25T13:15:33.712Z",
+      "description": "व्यक्ति सामने, लगभग 3 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 3,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:57.489Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:55.948Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:54.379Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:52.702Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:51.033Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:49.546Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:10:47.776Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:52.098Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:50.463Z",
+      "description": "व्यक्ति सामने, लगभग 2.3 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.3,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:48.780Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:47.225Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:45.640Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:43.972Z",
+      "description": "bird सामने, लगभग 2.3 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.3,
+      "classes": [
+        "bird"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:42.417Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:40.721Z",
+      "description": "bird सामने, लगभग 2.3 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.3,
+      "classes": [
+        "bird"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:39.005Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:37.467Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:35.871Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:34.148Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:32.581Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:30.992Z",
+      "description": "व्यक्ति बाईं ओर, लगभग 2.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:29.410Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T09:07:27.846Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:26.301Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:24.023Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:22.520Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:20.833Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:19.105Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:17.585Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:07:14.356Z",
+      "description": "व्यक्ति सामने, लगभग 2.4 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.4,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:03:26.548Z",
+      "description": "व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:41.514Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:36.006Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:34.305Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:32.732Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T08:57:31.136Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:29.374Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:27.806Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T08:57:26.232Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T08:57:24.634Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T08:57:21.522Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T08:57:19.148Z",
+      "description": "bed सामने, लगभग 0.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "bed"
+      ]
+    },
+    {
+      "time": "2026-07-24T08:57:14.185Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:25:06.527Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:25:04.876Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:25:02.404Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:25:00.449Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:24:57.476Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:54.327Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:51.211Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:48.504Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:46.903Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:45.277Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:43.647Z",
+      "description": "कुत्ता सामने, लगभग 0.7 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "dog"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:42.136Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:24:40.662Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:39.239Z",
+      "description": "कुत्ता सामने, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "dog",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:37.730Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:36.092Z",
+      "description": "कुत्ता सामने, लगभग 0.7 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "dog"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:34.490Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:33.012Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:31.548Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:30.102Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:28.634Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर; व्यक्ति दाईं ओर, लगभग 4.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:27.207Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:25.614Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर; व्यक्ति दाईं ओर, लगभग 9.6 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:23.981Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर; व्यक्ति दाईं ओर, लगभग 5.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:22.450Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर; व्यक्ति दाईं ओर, लगभग 5.4 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:20.899Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:18.248Z",
+      "description": "व्यक्ति सामने, लगभग 2.4 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.4,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:14.775Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:13.004Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:11.389Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:09.842Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:08.296Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:06.161Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:04.603Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:03.065Z",
+      "description": "व्यक्ति सामने, लगभग 2.4 मीटर दूर; व्यक्ति दाईं ओर, लगभग 4.2 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.4,
+      "classes": [
+        "person",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:24:00.375Z",
+      "description": "व्यक्ति सामने, लगभग 2.5 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:22:07.027Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:21:58.975Z",
+      "description": "व्यक्ति सामने, लगभग 2.3 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.3,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:48.362Z",
+      "description": "कुर्सी बाईं ओर, लगभग 2.0 मीटर दूर; व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2,
+      "classes": [
+        "chair",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:38.602Z",
+      "description": "किताब दाईं ओर, लगभग 1.0 मीटर दूर; व्यक्ति सामने, लगभग 2.4 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 1,
+      "classes": [
+        "book",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:33.708Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:21:27.345Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-24T06:21:22.006Z",
+      "description": "कप दाईं ओर, लगभग 0.8 मीटर दूर; बिल्ली सामने, लगभग 0.9 मीटर दूर; किताब दाईं ओर, लगभग 1.7 मीटर दूर; bowl दाईं ओर, लगभग 6.9 मीटर दूर।",
+      "count": 4,
+      "closest_distance_m": 0.8,
+      "classes": [
+        "cup",
+        "cat",
+        "book",
+        "bowl"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:17.365Z",
+      "description": "कप दाईं ओर, लगभग 0.8 मीटर दूर; बिल्ली सामने, लगभग 0.9 मीटर दूर; बिल्ली सामने, लगभग 1.4 मीटर दूर; किताब दाईं ओर, लगभग 1.6 मीटर दूर।",
+      "count": 4,
+      "closest_distance_m": 0.8,
+      "classes": [
+        "cup",
+        "cat",
+        "cat",
+        "book"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:12.990Z",
+      "description": "बिल्ली सामने, लगभग 1.0 मीटर दूर; किताब दाईं ओर, लगभग 1.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 1,
+      "classes": [
+        "cat",
+        "book"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:21:09.217Z",
+      "description": "किताब दाईं ओर, लगभग 1.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 1.8,
+      "classes": [
+        "book"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:20:51.430Z",
+      "description": "toothbrush सामने, लगभग 2.5 मीटर दूर; व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "toothbrush",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:20:36.731Z",
+      "description": "toothbrush सामने, लगभग 2.5 मीटर दूर; व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.5,
+      "classes": [
+        "toothbrush",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:53.074Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:48.979Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:44.400Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:40.323Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:35.931Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:31.548Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:27.404Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:22.851Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:18.268Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:09.448Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:05.087Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.8 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.8,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:15:00.775Z",
+      "description": "baseball bat दाईं ओर, लगभग 0.8 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.8,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:56.375Z",
+      "description": "baseball bat दाईं ओर, लगभग 1.0 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 1,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:51.822Z",
+      "description": "व्यक्ति सामने, लगभग 3.0 मीटर दूर; tie सामने, लगभग 4.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 3,
+      "classes": [
+        "person",
+        "tie"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:47.336Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर; tie सामने, लगभग 4.4 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person",
+        "tie"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:43.297Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:38.168Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:32.334Z",
+      "description": "व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.9,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:27.103Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:24.203Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:18.912Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:14.021Z",
+      "description": "व्यक्ति सामने, लगभग 3.0 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 3,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:09.727Z",
+      "description": "baseball bat बाईं ओर, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:05.265Z",
+      "description": "baseball bat सामने, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "baseball bat",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:14:00.935Z",
+      "description": "toothbrush बाईं ओर, लगभग 0.6 मीटर दूर; व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "toothbrush",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:13:56.473Z",
+      "description": "व्यक्ति सामने, लगभग 2.8 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.8,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:13:52.641Z",
+      "description": "व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:13:47.863Z",
+      "description": "व्यक्ति सामने, लगभग 2.7 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:12:41.702Z",
+      "description": "मोबाइल फोन सामने, लगभग 0.4 मीटर दूर; व्यक्ति सामने, लगभग 2.9 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.4,
+      "classes": [
+        "cell phone",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:12:34.405Z",
+      "description": "There is a cell phone in front, about 0.4 meters away, and a person in front, about 2.9 meters away.",
+      "count": 2,
+      "closest_distance_m": 0.4,
+      "classes": [
+        "cell phone",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:12:25.304Z",
+      "description": "There is a bottle in front, about 0.9 meters away, and a person in front, about 2.9 meters away.",
+      "count": 2,
+      "closest_distance_m": 0.9,
+      "classes": [
+        "bottle",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:10:04.960Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T06:09:40.169Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:06:21.704Z",
+      "description": "There is a person in front, about 3.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:06:11.867Z",
+      "description": "There is a person in front, about 3.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:41.565Z",
+      "description": "There is a person in front, about 3.2 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.2,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:37.264Z",
+      "description": "There is a person in front, about 3.4 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.4,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:33.025Z",
+      "description": "There is a person in front, about 3.4 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.4,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:28.436Z",
+      "description": "There is a person in front, about 3.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:24.246Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:20.016Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:15.344Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:10.782Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:06.311Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:05:01.902Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:04:57.491Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:04:53.290Z",
+      "description": "There is a person in front, about 2.6 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:04:48.910Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:04:43.107Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:01:47.508Z",
+      "description": "There is a cell phone to the right, about 0.6 meters away, and a person in front, about 3.1 meters away.",
+      "count": 2,
+      "closest_distance_m": 0.6,
+      "classes": [
+        "cell phone",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:01:40.394Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-23T20:01:31.785Z",
+      "description": "There is a person in front, about 2.7 meters away.",
+      "count": 1,
+      "closest_distance_m": 2.7,
+      "classes": [
+        "person"
+      ]
+    }
+  ],
+  "6326deb2-b76f-45f6-bc6b-1dbf9a15d3da": [
+    {
+      "time": "2026-07-24T10:17:41.809Z",
+      "description": "व्यक्ति सामने, लगभग 2.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T10:15:42.944Z",
+      "description": "व्यक्ति सामने, लगभग 3.0 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 3,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:18:52.279Z",
+      "description": "bed सामने, लगभग 0.7 मीटर दूर; व्यक्ति सामने, लगभग 2.2 मीटर दूर।",
+      "count": 2,
+      "closest_distance_m": 0.7,
+      "classes": [
+        "bed",
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-24T09:18:41.208Z",
+      "description": "No objects detected clearly. Please move slowly.",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    }
+  ],
+  "eb6e2a3f-e552-43fd-a1a4-975fe80ec8df": [
+    {
+      "time": "2026-07-25T10:52:08.270Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-25T10:52:01.242Z",
+      "description": "आस-पास कुछ स्पष्ट नहीं दिखा। धीरे चलें।",
+      "count": 0,
+      "closest_distance_m": null,
+      "classes": []
+    },
+    {
+      "time": "2026-07-25T10:51:28.558Z",
+      "description": "व्यक्ति सामने, लगभग 2.6 मीटर दूर।",
+      "count": 1,
+      "closest_distance_m": 2.6,
+      "classes": [
+        "person"
+      ]
+    },
+    {
+      "time": "2026-07-25T10:34:50.932Z",
+      "description": "There is a person in front, about 3.1 meters away.",
+      "count": 1,
+      "closest_distance_m": 3.1,
+      "classes": [
+        "person"
+      ]
+    }
+  ]
+}
