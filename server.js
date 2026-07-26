@@ -429,7 +429,7 @@ async function callGeminiVision(base64, mimeType, systemPrompt, userPrompt) {
     if (!key) break;
     try {
       const r = await axios.post(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${key}`,
+        `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=${key}`,
         { contents: [{ parts: [{ text: `${systemPrompt}\n\n${userPrompt}` }, { inline_data: { mime_type: mimeType, data: base64 } }] }] },
         { timeout: 15000 }
       );
@@ -528,7 +528,7 @@ app.post('/api/voice-intent', async (req, res) => {
     if (!key) return res.status(500).json({ success: false, error: 'No Gemini key configured' });
 
     const r = await axios.post(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${key}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=${key}`,
       { contents: [{ parts: [{ text: prompt }] }], generationConfig: { temperature: 0 } },
       { timeout: 6000 }
     );
@@ -564,7 +564,7 @@ app.post('/api/transcribe', (req, res) => {
       // focused and inconsistent with audio in practice; this call is rare
       // (once per question) so the slightly heavier model is worth it.
       const r = await axios.post(
-        `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${key}`,
+        `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=${key}`,
         {
           contents: [{
             parts: [
@@ -602,7 +602,7 @@ app.post('/api/chat', async (req, res) => {
 
   try {
     const r = await axios.post(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent?key=${key}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent?key=${key}`,
       { contents: [{ parts: [{ text: prompt }] }] },
       { timeout: 10000 }
     );
